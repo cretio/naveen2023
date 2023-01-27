@@ -1,0 +1,18 @@
+﻿{
+  "Descriptor": {
+    "UId": "bbf03ddc-0309-eeab-939f-2b69d1d6c881",
+    "PackageVersion": "8.0.6",
+    "Name": "Naveenkumar2023",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1674634703000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/Naveenkumar2023.csproj",
+    "DependsOn": [
+      {
+        "UId": "d7559847-f38e-410c-baee-6f43bbe80d42",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterpriseSoftkey_ENU"
+      }
+    ]
+  }
+}
