@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "8da8caea-926f-4b7d-8a4a-458fbd2e7767",
+    "Name": "naveenkumarRealty",
+    "ModifiedOnUtc": "\/Date(1674899017000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Realty",
+    "DependsOn": []
+  }
+}

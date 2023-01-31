@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ae16eb0f-030c-4868-b5d1-cd2011185762",
+    "Name": "naveenkumarRealty8_FormPage",
+    "ModifiedOnUtc": "\/Date(1674904476000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Realty8 form page",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ecacde0d-ff39-4363-a1f4-beec77fc4cd6",
+    "Name": "naveenkumarRealty8offertype",
+    "ModifiedOnUtc": "\/Date(1674904448000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Realty8 offer type",
+    "DependsOn": []
+  }
+}

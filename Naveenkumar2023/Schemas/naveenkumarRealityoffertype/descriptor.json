@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "baf2af1e-ce53-44bc-a865-6bb15e00e4f8",
+    "Name": "naveenkumarRealityoffertype",
+    "ModifiedOnUtc": "\/Date(1674899013000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Reality offer type",
+    "DependsOn": []
+  }
+}

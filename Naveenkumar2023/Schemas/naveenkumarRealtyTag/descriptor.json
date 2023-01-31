@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "10a9766b-e02f-427d-9ca7-4aeb6f821087",
+    "Name": "naveenkumarRealtyTag",
+    "ModifiedOnUtc": "\/Date(1674897982000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Realty section tag",
+    "DependsOn": []
+  }
+}

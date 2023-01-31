@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "43f200e7-2ec5-4a30-8c28-a7579712a5d2",
+    "Name": "naveenkumarRealtyInFolder",
+    "ModifiedOnUtc": "\/Date(1674897977000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Realty in Folder",
+    "DependsOn": []
+  }
+}

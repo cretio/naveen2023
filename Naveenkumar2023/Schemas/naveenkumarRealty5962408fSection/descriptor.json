@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "5d551c9f-5e7e-457e-b7c5-fa61e8da87d2",
+    "Name": "naveenkumarRealty5962408fSection",
+    "ModifiedOnUtc": "\/Date(1674897948000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Section schema: \"Realty\""
+  }
+}

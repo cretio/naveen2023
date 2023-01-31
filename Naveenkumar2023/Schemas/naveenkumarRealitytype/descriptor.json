@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "12075fb4-bd4d-4b18-9461-597f950cf51b",
+    "Name": "naveenkumarRealitytype",
+    "ModifiedOnUtc": "\/Date(1674881323000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Reality type",
+    "DependsOn": []
+  }
+}

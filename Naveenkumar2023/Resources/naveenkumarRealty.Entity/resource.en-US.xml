@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Realty" />
+			<Item Name="Columns.naveenkumarAreasqft.Caption" Value="Area,Sq ft" />
+			<Item Name="Columns.naveenkumarComment.Caption" Value="Comment" />
+			<Item Name="Columns.naveenkumarName.Caption" Value="Name" />
+			<Item Name="Columns.naveenkumarNotes.Caption" Value="Notes" />
+			<Item Name="Columns.naveenkumarOffertype.Caption" Value="Offer type" />
+			<Item Name="Columns.naveenkumarPriceUsd.Caption" Value="Price,Usd" />
+			<Item Name="Columns.naveenkumartype.Caption" Value="Type" />
+		</Items>
+	</Group>
+</Resources>

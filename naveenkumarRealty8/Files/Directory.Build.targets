@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/naveenkumarRealty8/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/naveenkumarRealty8/Data/**" />
+		<Compile Remove="$(PkgPath)/naveenkumarRealty8/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/naveenkumarRealty8/Schemas\**" />
+		<Compile Remove="$(PkgPath)/naveenkumarRealty8/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/naveenkumarRealty8/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/naveenkumarRealty8/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/naveenkumarRealty8/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/naveenkumarRealty8/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/naveenkumarRealty8/Resources/**" />
+		<None Remove="$(PkgPath)/naveenkumarRealty8/Assemblies/**" />
+		<None Remove="$(PkgPath)/naveenkumarRealty8/Data/**" />
+		<None Remove="$(PkgPath)/naveenkumarRealty8/SqlScripts/**" />
+		<None Remove="$(PkgPath)/naveenkumarRealty8/Schemas/**" />
+		<None Remove="$(PkgPath)/naveenkumarRealty8/Resources/**" />
+  </ItemGroup>
+</Project>
